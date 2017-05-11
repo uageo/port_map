@@ -43,6 +43,61 @@
           26.150507192328902
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Анкоридж",
+        "turnover": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.87960815429688,
+          61.17635686041473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Х'юстон",
+        "turnover": 208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0482177734375,
+          29.67850809103362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Нью-Йорк - Нью-Джерсі Північний - Лонг-Айленд",
+        "turnover": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.014892578125,
+          40.734770989672406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Лос-Анджелес - Лонг-Біч - Санта-Ана"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2568359375,
+          33.81110228864701
+        ]
+      }
     }
   ]
 }
