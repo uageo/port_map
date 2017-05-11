@@ -150,6 +150,276 @@
           35.45395828344931
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Гамбург",
+        "turnover": "54,5",
+        "type": "river"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95086669921875,
+          53.53867518408384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дуйсбург",
+        "turnover": 110,
+        "type": "river"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7510986328125,
+          51.448658120386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Гент",
+        "turnover": 24,
+        "type": "river"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.728485107421875,
+          51.056070541830934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Льєж",
+        "turnover": 14,
+        "type": "river"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.575561523437499,
+          50.63988122017964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Базель",
+        "turnover": 10,
+        "type": "river"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.590522766113281,
+          47.558804764835614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ханау",
+        "turnover": 7,
+        "type": "river"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.909225463867188,
+          50.128942293599195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ашаффенбург",
+        "turnover": 7,
+        "type": "river"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.139766693115233,
+          49.976286377149506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Монреаль",
+        "turnover": 25,
+        "type": "river"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.60565185546875,
+          45.4947963896697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Квебек",
+        "turnover": "18,1",
+        "type": "river"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.22024536132812,
+          46.82073726164968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Твер",
+        "turnover": 15,
+        "type": "river"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.91945648193359,
+          56.86248720071617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Детройт",
+        "turnover": 13,
+        "type": "lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05938720703125,
+          42.338244963350846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Торонто",
+        "turnover": "6,5",
+        "type": "lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38720703125,
+          43.667871610117494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чикаго",
+        "turnover": 74,
+        "type": "lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63519287109375,
+          41.87774145109676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Клівленд",
+        "turnover": 25,
+        "type": "lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70120239257811,
+          41.494692436865364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Буффало",
+        "turnover": "15,5",
+        "type": "lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87771606445312,
+          42.88552403501212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Мілуокі",
+        "turnover": 8,
+        "type": "lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91534423828124,
+          43.0287452513488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Маракайбо",
+        "turnover": 115,
+        "type": "lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62948608398438,
+          10.549921660668863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дулут - Сьюперіор",
+        "turnover": 35,
+        "type": "lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.11280822753906,
+          46.77279018059152
+        ]
+      }
     }
   ]
 }
