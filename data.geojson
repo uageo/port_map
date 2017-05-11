@@ -420,6 +420,156 @@
           46.77279018059152
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Роттердам",
+        "turnover": 229,
+        "type": "sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.475555419921875,
+          51.91039070988962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Марсель - Фос",
+        "turnover": 81,
+        "type": "sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36407470703125,
+          43.294699628704194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Гдиня - Гданськ",
+        "turnover": 54,
+        "type": "sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.58062744140625,
+          54.434109207620594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Констанца - Неводарі",
+        "turnover": "56,33",
+        "type": "sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.61526489257812,
+          44.230440594623865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Щецин",
+        "turnover": "5,9",
+        "type": "sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.595336914062498,
+          53.41035045204762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бургас",
+        "turnover": "3,5",
+        "type": "sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.453460693359375,
+          42.49032731830467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Варна - Девня",
+        "turnover": "5,5",
+        "type": "sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.895660400390625,
+          43.19916951473751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Рієка - Бакар",
+        "turnover": "11,2",
+        "type": "sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4854736328125,
+          45.31594329326602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Спліт",
+        "turnover": "3,5",
+        "type": "sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.47125244140625,
+          43.51469675271006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Одеса",
+        "turnover": "23,1",
+        "type": "sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.731849670410156,
+          46.499692084332345
+        ]
+      }
     }
   ]
 }
