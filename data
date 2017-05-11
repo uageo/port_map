@@ -20,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "name": "Сіетл - Такома",
-        "turnover": 35
+        "turnover": 35,
+        "type": "ocean"
       },
       "geometry": {
         "type": "Point",
@@ -34,7 +35,8 @@
       "type": "Feature",
       "properties": {
         "name": "Майамі - Форт - Лодердейл - Помпано-Біч",
-        "turnover": 10
+        "turnover": 10,
+        "type": "ocean"
       },
       "geometry": {
         "type": "Point",
@@ -48,7 +50,8 @@
       "type": "Feature",
       "properties": {
         "name": "Анкоридж",
-        "turnover": 1
+        "turnover": 1,
+        "type": "ocean"
       },
       "geometry": {
         "type": "Point",
@@ -62,7 +65,8 @@
       "type": "Feature",
       "properties": {
         "name": "Х'юстон",
-        "turnover": 208
+        "turnover": 208,
+        "type": "ocean"
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +80,8 @@
       "type": "Feature",
       "properties": {
         "name": "Нью-Йорк - Нью-Джерсі Північний - Лонг-Айленд",
-        "turnover": ""
+        "turnover": 150,
+        "type": "ocean"
       },
       "geometry": {
         "type": "Point",
@@ -89,13 +94,60 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Лос-Анджелес - Лонг-Біч - Санта-Ана"
+        "name": "Лос-Анджелес - Лонг-Біч - Санта-Ана",
+        "turnover": 90,
+        "type": "ocean"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -118.2568359375,
           33.81110228864701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сінгапур",
+        "turnover": 560,
+        "type": "ocean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8153076171875,
+          1.345701455472609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Буенос-Айрес",
+        "turnover": 30,
+        "type": "ocean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37860107421875,
+          -34.58799745550482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кейхін",
+        "turnover": 400,
+        "type": "ocean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63623046875,
+          35.45395828344931
         ]
       }
     }
