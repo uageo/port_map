@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сан-Франциско",
+        "turnover": 45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44606018066406,
+          37.77994127700315
+        ]
+      }
+    }
+  ]
+}
