@@ -5,13 +5,42 @@
       "type": "Feature",
       "properties": {
         "name": "Сан-Франциско",
-        "turnover": 45
+        "turnover": 45,
+        "type": "ocean"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -122.44606018066406,
           37.77994127700315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сіетл - Такома",
+        "turnover": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32177734375,
+          47.355571314854764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Майамі - Форт - Лодердейл - Помпано-Біч",
+        "turnover": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17822265625,
+          26.150507192328902
         ]
       }
     }
